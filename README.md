@@ -1,6 +1,8 @@
 # Using Cloudflare workers for DJ Song Requests
 
-This repostory contains a worker script that takes song requests and them using [MailChannels](https://support.mailchannels.com/hc/en-us/articles/4565898358413-Sending-Email-from-Cloudflare-Workers-using-MailChannels-Send-API) free service from cloudflare to send a that to a desired email addess.
+This repostory contains a worker script that takes song requests and them using [MailChannels](https://support.mailchannels.com/hc/en-us/articles/4565898358413-Sending-Email-from-Cloudflare-Workers-using-MailChannels-Send-API) free service from cloudflare to send a that to a desired email address.
+
+![Example Screenshot](Screenshot.png)
 
 ## Why Cloudflare workers?
 
